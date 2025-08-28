@@ -4,7 +4,7 @@ scipy >= 1.4.1
 matplotlib >= 3.2.2
 wget >= 3.2
 rawpy >= 0.17.1
-lensfunpy == 1.10.0
+lensfunpy >= 1.10.0
 ExifRead >= 3.0.0
 natsort >= 8.1.0
 Deprecated >= 1.2.13
